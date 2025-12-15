@@ -32,7 +32,7 @@ Perfect for:
 Sound + notification after **every Claude response**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-code-sound.git
+git clone https://github.com/netflyapp/claude-code-sound.git
 cd claude-code-sound
 chmod +x claude-setup-macos.sh
 ./claude-setup-macos.sh
@@ -43,7 +43,7 @@ chmod +x claude-setup-macos.sh
 Sound + notification **ONLY when Claude asks for approval** (`[y/N]`, `Accept?`):
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-code-sound.git
+git clone https://github.com/netflyapp/claude-code-sound.git
 cd claude-code-sound
 chmod +x claude-setup-macos-pro.sh
 ./claude-setup-macos-pro.sh
